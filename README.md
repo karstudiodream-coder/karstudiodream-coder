@@ -5,7 +5,7 @@
 
 ---
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VxdXF3M2J0Z3N4Znd6bmZueXphZnd6bmZueXphZnd6bmZueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWdlX25hbWUmY3Q9Zw/kgyfKz4mE99CgJ125n/giphy.gif" width="550px" style="border-radius: 20px;">
+<img src="https://media.giphy.com/media/XEPS7eSwQA15GSkK2O/giphy.gif" width="550px" style="border-radius: 20px;">
 
 ---
 
