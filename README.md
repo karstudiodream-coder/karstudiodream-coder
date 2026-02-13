@@ -1,25 +1,18 @@
 <div align="center">
 
 # ✨ 🌸 ¡Hola! Soy Demeira Almonte 🌸 ✨
-### 👩‍💻 Estudiante de Ciberseguridad | Aspirante a Ingeniera | Dev en Proceso 🚀
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZueGZueXphZnd6Ym10bmZqZnd6bmZueXphZnd6bmZueXphZnd6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ2VfbmFtZSZjdD1n/f6XoHOn7L9LpDAn69O/giphy.gif" width="450px" style="border-radius: 20px;">
+### 👩‍💻 Estudiante de Ciberseguridad | Aspirante a Ingeniera | Desarrolladora
 
 ---
 
-<img src="https://64.media.tumblr.com/71239c0864391e3e7f45c4794270f031/tumblr_inline_pndscfR91t1r8f9pe_1280.jpg" width="450px" style="border-radius: 20px;">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VxdXF3M2J0Z3N4Znd6bmZueXphZnd6bmZueXphZnd6bmZueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWdlX25hbWUmY3Q9Zw/kgyfKz4mE99CgJ125n/giphy.gif" width="550px" style="border-radius: 20px;">
 
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/demehire-almonte-596a0b3ab)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbCZvM6KAwEmSrZjOc40)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8abZFtr4m)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:demeiraalmonte@gmail.com)
-
----
-
-### 🌟 ¡Únete a mi comunidad! 🌟
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8abZFtr4m)  
-**🏆 Club de Aspirantes y Estudiantes Devs** *¡Un espacio para crecer juntos!* ☕📖
 
 ---
 
@@ -27,35 +20,20 @@
 
 ## 🎀 Sobre mí
 <p align="left">
-🍃 <b>Enfoque:</b> Aprender y superarme cada día en el mundo de la tecnología.<br>
+🌸 <b>Enfoque:</b> Aprender y superarme cada día en el mundo de la tecnología.<br>
 💻 <b>Pasión:</b> Desarrollar soluciones creativas y explorar nuevas herramientas digitales.<br>
 🛡️ <b>Meta:</b> Convertirme en una experta en Ciberseguridad e Ingeniería en Sistemas.
 </p>
 
-## 📚 Mi Stack de Aprendizaje (Herramientas 🛠️)
+## 📚 Mi Stack de Aprendizaje 🛠️
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,py,ai,mysql,linux,bash,git,github,vscode,html,css,discord&perline=12" />
   </a>
 </p>
 
-<br>
-
-## 📊 Estadísticas Reales 📈
-<p align="center">
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=karstudiodream-coder&theme=radical&hide_border=false" alt="Streak Stats" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=karstudiodream-coder&theme=radical&hide_border=false&layout=compact" />
-      </td>
-    </tr>
-  </table>
-</p>
-
 <div align="center">
-  <p><i>"El futuro pertenece a quienes creen en la belleza de sus sueños"</i> ✨🌙</p>
+  <br>
   <img src="https://komarev.com/ghpvc/?username=karstudiodream-coder&color=ff69b4&style=flat-square&label=VISTAS+AL+PERFIL" alt="vistas" />
+  <p><i>"El futuro pertenece a quienes creen en la belleza de sus sueños"</i> ✨🌙</p>
 </div>
