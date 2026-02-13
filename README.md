@@ -3,7 +3,11 @@
 # ✨ 🌸 ¡Hola! Soy Demeira Almonte 🌸 ✨
 ### 👩‍💻 Estudiante de Ciberseguridad | Aspirante a Ingeniera | Dev en Proceso 🚀
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VxdXF3M2J0Z3N4Znd6bmZueXphZnd6bmZueXphZnd6bmZueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWdlX25hbWUmY3Q9Zw/3o7TKu6WJxtZvbqKv6/giphy.gif" width="450px" style="border-radius: 20px;">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZueGZueXphZnd6Ym10bmZqZnd6bmZueXphZnd6bmZueXphZnd6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ2VfbmFtZSZjdD1n/f6XoHOn7L9LpDAn69O/giphy.gif" width="450px" style="border-radius: 20px;">
+
+---
+
+<img src="https://64.media.tumblr.com/71239c0864391e3e7f45c4794270f031/tumblr_inline_pndscfR91t1r8f9pe_1280.jpg" width="450px" style="border-radius: 20px;">
 
 ---
 
@@ -15,7 +19,7 @@
 
 ### 🌟 ¡Únete a mi comunidad! 🌟
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8abZFtr4m)  
-**🏆 Club de Aspirantes y Estudiantes Devs** *¡Un espacio Lofi para crecer, compartir y aprender juntos!* ☕📖
+**🏆 Club de Aspirantes y Estudiantes Devs** *¡Un espacio para crecer juntos!* ☕📖
 
 ---
 
@@ -35,11 +39,6 @@
   </a>
 </p>
 
-## 📂 Actividad Reciente (Automático 🔥)
-<p align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=karstudiodream-coder&theme=radical&hide_border=false&layout=compact" />
-</p>
-
 <br>
 
 ## 📊 Estadísticas Reales 📈
@@ -49,19 +48,14 @@
       <td align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=karstudiodream-coder&theme=radical&hide_border=false" alt="Streak Stats" />
       </td>
+      <td align="center">
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=karstudiodream-coder&theme=radical&hide_border=false&layout=compact" />
+      </td>
     </tr>
   </table>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karstudiodream-coder&theme=radical&row=1&column=7&no-bg=true" alt="Trophy" />
-</p>
-
-<br>
-
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3pueGZueXphZnd6bmZueXphZnd6bmZueXphZnd6bmZueXphZnd6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ2VfbmFtZSZjdD1n/M95pE82L2z6hO/giphy.gif" width="80px">
   <p><i>"El futuro pertenece a quienes creen en la belleza de sus sueños"</i> ✨🌙</p>
-  
   <img src="https://komarev.com/ghpvc/?username=karstudiodream-coder&color=ff69b4&style=flat-square&label=VISTAS+AL+PERFIL" alt="vistas" />
 </div>
