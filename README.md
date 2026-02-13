@@ -3,7 +3,7 @@
 # ✨ 🌸 ¡Hola! Soy Demeira Almonte 🌸 ✨
 ### 👩‍💻 Estudiante de Ciberseguridad | Aspirante a Ingeniera | Dev en Proceso 🚀
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZ0Z3R3ZGZueXphZnd6bmZueXphZnd6bmZueXphZnd6bmZueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWdlX25hbWUmY3Q9Zw/Vff5Qxz6LLzag/giphy.gif" width="350px">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VxdXF3M2J0Z3N4Znd6bmZueXphZnd6bmZueXphZnd6bmZueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWdlX25hbWUmY3Q9Zw/3o7TKu6WJxtZvbqKv6/giphy.gif" width="450px" style="border-radius: 20px;">
 
 ---
 
@@ -60,7 +60,7 @@
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3pueGZueXphZnd6bmZueXphZnd6bmZueXphZnd6bmZueXphZnd6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ2VfbmFtZSZjdD1z/hS4Ggc53WpSIn860Lp/giphy.gif" width="50px">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3pueGZueXphZnd6bmZueXphZnd6bmZueXphZnd6bmZueXphZnd6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ2VfbmFtZSZjdD1n/M95pE82L2z6hO/giphy.gif" width="80px">
   <p><i>"El futuro pertenece a quienes creen en la belleza de sus sueños"</i> ✨🌙</p>
   
   <img src="https://komarev.com/ghpvc/?username=karstudiodream-coder&color=ff69b4&style=flat-square&label=VISTAS+AL+PERFIL" alt="vistas" />
