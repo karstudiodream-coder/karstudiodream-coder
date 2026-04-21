@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ 🌸 ¡Hola! Soy Demeira 🌸 ✨
+# ✨ 🌸 Hola, Soy Dey 🌸 ✨
 ### 👩‍💻 Estudiante de Ciberseguridad | Aspirante a Ingeniera & Desarrolladora
 
 ---
