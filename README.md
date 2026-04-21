@@ -9,31 +9,33 @@
 
 ---
 
-
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbCPxLPJpe8Xm8s0O10j)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JaJa3CmH)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: xzdey3@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xzdey3@gmail.com)
 
 ---
 
 </div>
 
 ## 🎀 Sobre mí
-<p align="left">
-🌸 <b>Enfoque:</b> Aprender y superarme cada día en el mundo de la tecnología.<br>
-💻 <b>Pasión:</b> Descubrir cosas nuevas y divertirme.<br>
-🛡️ <b>Meta:</b> aprender más cada día.
-</p>
+* 🌸 **Enfoque:** Aprender y superarme cada día en el mundo de la tecnología.
+* 💻 **Pasión:** Descubrir cosas nuevas y divertirme.
+* 🛡️ **Meta:** Aprender más cada día.
 
 ## 📚 Mi Stack de Aprendizaje 🛠️
-<p align="left">
+
+<div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,py,ai,mysql,linux,bash,git,github,vscode,html,css,discord&perline=12" />
   </a>
-</p>
+</div>
+
+---
 
 <div align="center">
-  <br>
   <img src="https://komarev.com/ghpvc/?username=karstudiodream-coder&color=ff69b4&style=flat-square&label=VISTAS+AL+PERFIL" alt="vistas" />
-  <p><i>"El futuro pertenece a quienes creen en la belleza de sus sueños"</i> ✨🌙</p>
+  
+  <br>
+
+  *"El futuro pertenece a quienes creen en la belleza de sus sueños"* ✨🌙
 </div>
