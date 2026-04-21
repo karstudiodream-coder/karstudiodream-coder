@@ -1,7 +1,7 @@
 <div align="center">
 
-# ✨ 🌸 ¡Hola! Soy Demeira Almonte 🌸 ✨
-### 👩‍💻 Estudiante de Ciberseguridad | Aspirante a Ingeniera | Desarrolladora
+# ✨ 🌸 ¡Hola! Soy Demeira 🌸 ✨
+### 👩‍💻 Estudiante de Ciberseguridad | Aspirante a Ingeniera & Desarrolladora
 
 ---
 
@@ -21,8 +21,8 @@
 ## 🎀 Sobre mí
 <p align="left">
 🌸 <b>Enfoque:</b> Aprender y superarme cada día en el mundo de la tecnología.<br>
-💻 <b>Pasión:</b> Desarrollar soluciones creativas y explorar nuevas herramientas digitales.<br>
-🛡️ <b>Meta:</b> Convertirme en una experta en Ciberseguridad e Ingeniería en Sistemas.
+💻 <b>Pasión:</b> Descubrir cosas nuevas y divertirme.<br>
+🛡️ <b>Meta:</b> aprender más cada día.
 </p>
 
 ## 📚 Mi Stack de Aprendizaje 🛠️
